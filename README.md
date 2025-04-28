@@ -32,4 +32,4 @@ For Method 1, let's say we take the first half-ROC:
 
 #### Method 4:
 - **Step 1:** Take the `HGC_adc` branch and subtract the previous bunch crossing from it.
-- **Step 2:** Calculate the mean of 32 connected channels for each halfroc, subtract it from the `HGC_adc - HGC_adc pbc`, the one calculated above
+- **Step 2:** Calculate the mean of 32 connected channels for each of the halfroc halfroc, subtract it from the `HGC_adc - HGC_adc pbc`, the one calculated above
